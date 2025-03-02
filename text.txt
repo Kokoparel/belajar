@@ -14,4 +14,16 @@ koq aku ga diajak
 tes tis
 
 haloooooooo
+<<<<<<< HEAD
 >>>>>>> 38ccdb41a333c2164c0eae5c4ece80ad5674eaba
+=======
+
+Cara Membuat Malbi Daging sapi Khas Palembang:
+1. Iris daging sapi melintang serat 1 cm lalu sisihkan.
+2. Tumis Bumbu Halus hingga matang dan mendidih.
+3. Tambahkan cengkih, kayu manis dan kapulaga, aduk hingga harum
+4. Masukkan irisan daging, aduk hingga kaku dan berubah warna lalu angkat.
+5. Masukkan ke dalam panci, tambahkan air. Masak daging dengan api sedang hingga mendidih.
+6. Tambahkan kelapa sangrai, kecap manis, air asam dan gula Jawa. Masak terus hingga daging empuk dan kuah menyusut kental.
+7. Angkat, sajikan hangat dengan taburan daun bawang iris dan bawang merah goreng, jika suka.
+>>>>>>> 6f4e0e078b0ef5c258f1aff5dfc0bc28d3f71379
