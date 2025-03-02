@@ -2,6 +2,7 @@ tessssss
 
 halo aku ari
 
+<<<<<<< HEAD
 tes
 
 
@@ -9,3 +10,8 @@ aku nak join juga
 
 kalian lagi main apa? 
 koq aku ga diajak
+=======
+tes tis
+
+haloooooooo
+>>>>>>> 38ccdb41a333c2164c0eae5c4ece80ad5674eaba
