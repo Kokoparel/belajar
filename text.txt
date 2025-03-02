@@ -3,6 +3,7 @@ tessssss
 halo aku ari
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 tes
 
 
@@ -12,6 +13,9 @@ kalian lagi main apa?
 koq aku ga diajak
 =======
 tes tis
+=======
+tes tis tus
+>>>>>>> a1b1ddd387bc0ffb75bd57e78fab44acb7e90167
 
 haloooooooo
 <<<<<<< HEAD
